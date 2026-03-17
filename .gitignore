@@ -1,0 +1,37 @@
+# Ignore old project version
+account.c
+account.h
+main.c
+code.c
+
+# Compiled binaries
+bankapp
+bankapp1
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Build folders
+build/
+bin/
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE folders
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.temp
